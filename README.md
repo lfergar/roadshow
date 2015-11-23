@@ -1,4 +1,4 @@
-# New version of the Calculator web app demo project
+# A new version of the Calculator web app demo project
 
 Calculator web application demo project, used for various 
 training classes around continuous delivery by Praqma.
